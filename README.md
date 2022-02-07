@@ -1,4 +1,4 @@
-# ETL Practice
+# Data Analytics Fundamentals practice
 This is a repository that contains the practice from Data Analytics Fundamentals topic proposed by José María Sarabia, teacher at CUNEF University. 
 
 Authors:
